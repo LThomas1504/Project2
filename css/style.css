@@ -12,7 +12,6 @@ nav {
 
 main {
   background-image: url("../images/ac_pattern.png");
-  background-size: 100%;
   background-size: cover;
   width: 50%;
   margin: 0 auto;
@@ -22,8 +21,7 @@ main {
 .main-content {
   background-image: url("../images/ac_pattern.png");
   background-size: cover;
-  width: 80%;
-  width: 600px;
+  max-width: 600px; 
   padding: 20px;
   margin-right: 30px;
   margin-left: 15px;
