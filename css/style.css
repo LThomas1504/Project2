@@ -1,5 +1,8 @@
 body {
 	background-image: url("../images/ac_wallpaper.jpg");
+	font-family: 'Roboto', Arial, sans-serif;
+	line-height: 1.6;
+	
 }
 
 nav {
@@ -7,3 +10,4 @@ nav {
 	text-align: center;
 	padding: 1em;
 }
+
