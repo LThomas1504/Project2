@@ -13,9 +13,8 @@ nav {
 .main-content {
   background-image: url("../images/ac_pattern.png");
   background-size: cover;
-  width: 50%;
+  width: 80%;
   padding: 20px;
-  width: 600px;
   margin-right: 30px;
   margin-left: 15px;
 }
